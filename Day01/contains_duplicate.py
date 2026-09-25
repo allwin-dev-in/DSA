@@ -5,6 +5,5 @@ class Solution:
                 return True 
         else:
             return False
-
 inst=Solution()
 print(inst.containsDuplicate([2,14,18,22,22]))
